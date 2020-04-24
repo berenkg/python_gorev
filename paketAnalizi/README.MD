@@ -6,14 +6,14 @@ Projede Wireshark aracılığı ile bazı paketler yakalanmıştır ve daha sonr
 
 İLk olarak aşağıdaki fotoğrafta wireshark üzerinde yakalanan paketler gösterilmiştir. BU paketlerden örnek olarak 1. ICMP paketini seçelim ve kıyaslamamızı bunun üzerine yapalım.
 
-<img src="/img/foto2.PNG" style="width:100%;">
+<img src="https://raw.githubusercontent.com/berenkg/python_gorev/master/paketAnalizi/img/foto2.PNG" style="width:100%;">
 
 Projeyi başlatalım ilk karşılama ekranında bize bazı istatitikler verecektir. Biz burada ICMP seçeneği ile daevam edeceğiz.
 
-<img src="/img/foto3.PNG" style="width:100%;">
+<img src="https://raw.githubusercontent.com/berenkg/python_gorev/master/paketAnalizi/img/foto3.PNG" style="width:100%;">
 
 Proje bize özet bilgiler gösterdikten sonra ayrıntılı bilgiler ister misiniz? diye bir soru sordu bunu evet şeklinde cevapladığımızda çıktının wiresharktaki ile ayı olduğunu görebiliriz.
 
-<img src="/img/foto4.PNG" style="width:100%;">
+<img src="https://raw.githubusercontent.com/berenkg/python_gorev/master/paketAnalizi/img/foto4.PNG" style="width:100%;">
 
 
